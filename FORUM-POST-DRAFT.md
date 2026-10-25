@@ -2,6 +2,8 @@
 
 Hi all — I wanted Edge-style pinned tabs in Vivaldi's vertical tab bar, so I built a mod:
 
+_⚠️ Heads-up: this mod was written with the help of an AI assistant. I reviewed and tested it myself, but it comes with no warranty, so use it at your own risk._
+
 - Pinned tabs **and pinned stacks** become a fixed, non-scrolling grid of favicon tiles at the top; regular tabs scroll underneath.
 - Click a pinned stack tile to drop down a list of its tabs (auto-collapses when you go to another tab, `+` adds a tab to the stack).
 - Regular stacks expand **inline** instead of in the two-level second column.

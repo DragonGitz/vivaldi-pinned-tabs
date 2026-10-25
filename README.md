@@ -2,6 +2,8 @@
 
 An unofficial UI mod that gives Vivaldi's **vertical tab bar** an Edge-style fixed pinned area.
 
+> **⚠️ AI-assisted:** This mod was written with the help of an AI assistant, then reviewed and tested by the author. It's provided as-is, with no warranty. Use it at your own risk, and see [LICENSE](LICENSE) (MIT).
+
 ## Features
 - **Fixed pinned grid** — pinned tabs and pinned stacks become small favicon tiles at the top of the tab bar. Regular tabs scroll underneath; the grid never scrolls. Uses your theme colors (works in dark mode).
 - **Pinned stack drop-down** — click a pinned stack tile (it shows a count badge) to open a panel under the grid listing its tabs as full rows. It collapses when you activate a tab outside the stack, click the tile again, click the chevron, or press Esc. The `+` in the panel header opens a new tab in that stack.
