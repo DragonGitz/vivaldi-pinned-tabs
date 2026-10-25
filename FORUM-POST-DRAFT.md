@@ -10,7 +10,7 @@ Hi all — I wanted Edge-style pinned tabs in Vivaldi's vertical tab bar, so I b
 
 Tested on **Vivaldi 8.2.4133.94 / Windows**. Install is a small PowerShell script that patches `window.html` (backup + `-Uninstall` included). Like all `window.html` mods, re-run it after Vivaldi updates.
 
-**Download / code:** [REPO LINK]
+**Download / code:** https://github.com/DragonGitz/vivaldi-pinned-tabs
 
 Screenshots:
 1. Pinned grid — `1-pinned-grid.png`
